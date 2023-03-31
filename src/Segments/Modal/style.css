@@ -1,0 +1,50 @@
+.saveSegment{
+     margin: 63px;
+}
+.savingSegment{
+    padding: 18px;
+    color: rgb(243, 232, 232);
+    background-color: #0aacc2c4;
+    margin: -24px -32px 0px -21px;
+}
+.segmentName{
+    padding-right: 63%;
+}
+a{
+    color: #0aacc2c4;
+    text-decoration: underline rgb(9, 174, 119);
+    cursor: pointer;
+}
+.onSave{
+    padding: 10px;
+    background-color: rgb(9, 174, 119);
+    border: none;
+    border-radius: 3px;
+    color: white;
+    margin-right: 15px !important;
+}
+.cancel{
+    color: red;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: white;
+}
+.footer{
+    position: absolute;
+    bottom: 5%;
+    
+}
+.schema{
+    margin-bottom: 10px;
+    display: flex;
+}
+.css-b62m3t-container{
+    width: 90%;
+}
+.css-1t8l2tu-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 7px 10px !important;
+}
+.css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+    width: 90%;
+}
